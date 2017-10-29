@@ -1,0 +1,117 @@
+[
+    {
+      "id":1,
+      "name":"mega",
+      "branches":
+      [
+        {
+          "id":1,
+          "name":"megabranch1",
+          "location":"tel aviv",
+          "lat":32.0042938,
+          "lng":34.7615399
+        },
+        {
+          "id":2,
+          "name":"megabranch2",
+          "location":"haifa",
+          "lat":32.7940463 ,
+          "lng":34.98957100000007
+        },
+        {
+          "id":3,
+          "name":"megabranch3",
+          "location":"be'eri",
+          "lat":31.424513 ,
+          "lng":34.49256700000001
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name":"shufersal",
+      "branches":
+      [
+        {
+          "id":1,
+          "name":"shuferbranch1",
+          "location":"beer sheva",
+          "lat": 31.252973 ,
+          "lng": 34.791462000000024
+        },
+        {
+          "id":2,
+          "name":"shuferbranch2",
+          "location":"jerusalem",
+          "lat" : 31.768319 ,
+          "lng" : 35.21370999999999
+        },
+        {
+          "id":3,
+          "name":"shuferbranch3",
+          "location":"maale adumim",
+          "lat" : 31.777369 ,
+          "lng" : 35.297955
+        }
+      ]
+      
+    },
+    {
+      "id":3,
+      "name":"rami levi",
+      "branches":
+      [
+        {
+          "id":1,
+          "name":"rami levi branch1",
+          "location":"tzfat",
+          "lat": 33.0229939 ,
+          "lng": 35.52200119999998
+        },
+        {
+          "id":2,
+          "name":"rami levi branch2",
+          "location":"netanya",
+          "lat" : 32.321458 ,
+          "lng" : 34.853196
+        },
+        {
+          "id":3,
+          "name":"rami levi branch3",
+          "location":"hadera",
+          "lat" : 32.4340458 ,
+          "lng" : 34.9196518
+        }
+      ]
+      
+    },
+    {
+      "id":4,
+      "name":"osher ad",
+      "branches":
+      [
+        {
+          "id":1,
+          "name":"osher ad branch1",
+          "location":"dimona",
+          "lat": 31.069419 ,
+          "lng": 35.03336300000001
+        },
+        {
+          "id":2,
+          "name":"osher ad branch2",
+          "location":"kfar saba",
+          "lat" : 32.178195 ,
+          "lng" : 34.90760999999998
+        },
+        {
+          "id":3,
+          "name":"osher ad branch3",
+          "location":"sde boker",
+          "lat" : 30.873611 ,
+          "lng" : 34.793097999999986
+        }
+      ]
+      
+    }
+    ]
