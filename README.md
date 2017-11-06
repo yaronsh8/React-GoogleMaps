@@ -2,6 +2,7 @@
 React-GoogleMaps - Supermarkets
 
 general:
+* to run the demo: https://yaronsh8.github.io/React-GoogleMaps/
 * enter a city, and google maps autocomplete will find matching cities.
 * a list of imaginary supermarkets will be displayed, sorted by distance from the city you entered
 * if entered a city in Israel, a message will be displayed with the supermarket Network that has the most branched in 50km radius from the city you entered
